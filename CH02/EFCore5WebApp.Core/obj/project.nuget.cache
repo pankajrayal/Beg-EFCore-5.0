@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GTkbUooPvKodauyGJTWFvEYOHmkJ8qETOTvK3TDS1vy/gqYrkdOaus9WDm6yAfcbWcqTC2MyMxcOS65/Eabvmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prayal\\Desktop\\Learning\\Current\\Source Code\\CH02\\EFCore5WebApp.Core\\EFCore5WebApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
