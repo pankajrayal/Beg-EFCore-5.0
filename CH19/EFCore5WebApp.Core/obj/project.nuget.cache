@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "czw+mi0i+9bs9jm9QCArh1bOBBZJFA+aoC9jjuSmZ4wql7pAN14vq1R55aAuawGGIGYN8RLmzBa36eXJCiPIig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prayal\\Desktop\\Learning\\Current\\Source Code\\CH19\\EFCore5WebApp.Core\\EFCore5WebApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prayal\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\prayal\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
